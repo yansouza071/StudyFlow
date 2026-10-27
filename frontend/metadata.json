@@ -1,0 +1,4 @@
+{
+  "name": "StudyFlow",
+  "description": "Aplicação web acolhedora e intuitiva para estudantes organizarem seus objetivos de estudo, com cadastro de título, descrição, prazo e status, contagem de metas, edição, confirmação para exclusão e salvamento seguro no localStorage."
+}
